@@ -8,7 +8,7 @@ title: About
 # Kwame Nkansah
 
 - [kwamenkansah.com](https://kwamenkansah.com)
-- kwame.nkansah@gmail.com
+- voltageek@gmail.com
 - Accra, Ghana
 
 ## Summary

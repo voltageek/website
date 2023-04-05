@@ -2,16 +2,16 @@
 title:               Kwame Nkansah
 tagline:             I build things.
 description:         'Infra & Dev Wrangler.'
-url:                 http://kwamenkansah.com
+url:                 https://kwamenkansah.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kwame Nkansah
+  url:               https://twitter.com/voltageek
+  email:             voltageek@gmail.com
 
 # Gems
 plugins:
