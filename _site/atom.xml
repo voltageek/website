@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Kwame Nkansah</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2023-04-05T14:35:28-05:00</updated>
+ <id>http://0.0.0.0:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Resurrection</title>
+   <link href="http://0.0.0.0:4000/2020/04/19/resurrection/"/>
+   <updated>2020-04-19T08:41:23-05:00</updated>
+   <id>http://0.0.0.0:4000/2020/04/19/resurrection</id>
+   <content type="html">&lt;p&gt;I’m back&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

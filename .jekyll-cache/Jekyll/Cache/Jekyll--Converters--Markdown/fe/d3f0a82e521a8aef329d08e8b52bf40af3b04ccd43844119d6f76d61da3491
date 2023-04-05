@@ -1,0 +1,47 @@
+I"ý<p>Infrastructure is my thing. Doesnt matter if itâ€™s code or substrate. Backends, APIs, networks, services &amp; security are what I spend most of my time thinking about.</p>
+
+<h3 id="services">Services</h3>
+<ul>
+  <li>Infrastructure Planning &amp; Design
+    <h3 id="skillsets">Skillsets</h3>
+  </li>
+  <li>Infrastructure &amp; Operations
+    <ul>
+      <li>Windows Server deployment and management</li>
+      <li>Linux &amp; BSD Unix variants deployment and management</li>
+      <li>Azure, AWS &amp; DigitalOcean Cloud Environments</li>
+      <li>Container Orchestration with Docker &amp; Kubernetes</li>
+      <li>VMWare vSphere deployment &amp; management</li>
+      <li>Powershell &amp; Bash shell scripting</li>
+      <li>Secure deployment &amp; configuration of services &amp; applications in public or private networks.</li>
+      <li>Performance monitoring &amp; metrics aggregation with Zabbix, PRTG, Grafana,</li>
+      <li>InfluxDB and Prometheus  Log collection &amp; aggregation with ELK, Graylog</li>
+    </ul>
+  </li>
+  <li>Network Systems
+    <ul>
+      <li>Design, implementation and management of small to medium scale (&lt; 4000 user nodes)  networks</li>
+      <li>Design and implementation of point-to-point, point-to-multipoint and mesh wireless networks</li>
+      <li>Firewall deployment, management &amp; monitoring VPN deployment and management</li>
+      <li>Deployment &amp; management of network services such as DNS, DHCP, SFTP etc</li>
+    </ul>
+  </li>
+  <li>Development
+    <ul>
+      <li>Python, Go, Javascript &amp; PHP</li>
+      <li>Relational database deployment and management with Microsoft SQL Server,</li>
+      <li>MySQL/MariaDB &amp; PostgreSQL. Design patterns &amp; paradigms such as MVC, object oriented programming, functional programming, event sourcing</li>
+      <li>CI/CD with Git, Jenkins, Terraform &amp; Ansible.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="projects">Projects</h3>
+
+<h3 id="interests">Interests</h3>
+<ul>
+  <li>Photography</li>
+  <li>Making stuff</li>
+  <li>Sci-Fi</li>
+</ul>
+:ET
