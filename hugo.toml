@@ -1,3 +1,73 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://kwamenkansah.com/'
+languageCode = 'en'
+title = 'Kwame Nkansah'
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Builder of things. Recovering Optimist."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "The ramblings of my mind"
+  keywords = "homepage, blog"
+  images = [""]
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/voltageek"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/voltageek"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/voltageek"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/voltageek"
+
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Kwame Nkansah"
+    copyright = 'All Rights Reserved.'
+
+  [languages.en.params]
+    subtitle  = "A simple theme for Hugo"
+
+    [languages.en.params.logo]
+      logoText = "Kwame Nkansah"
+      logoHomeLink = "/"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
