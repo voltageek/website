@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kwame Nkansah",
+    "description": "",
+    "home_page_url": "https://voltageek.github.io/website",
+    "feed_url": "https://voltageek.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kwame Nkansah"
+    },
+    "items": [
+    ]
+}
